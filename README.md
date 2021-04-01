@@ -85,7 +85,7 @@ setelah itu simpan dengan CTRL+X , lalu CTRL+Y , kemudian ENTER
 
 <br />
 
-### 3. Isi code didalam file bash
+### 3. Isi code didalam file bash (.sh) (startup.sh)
 format penulisan didalam file bash supaya terminal dapat terbuka pada saat awal booting dengan menulis seperti berikut...
 ```bash
 gnome-terminal -e 'sh -c "code -a /var/www/html; exec bash"' # open vscode backend
