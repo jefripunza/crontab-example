@@ -33,7 +33,7 @@ dapat mengambil data dari sebuah string dengan menggunakan variabel separator da
 crontab -e
 ```
 jika ditanya seperti ini?
-```shell
+```bash
 no crontab for test - using an empty one
 
 Select an editor.  To change later, run 'select-editor'.
