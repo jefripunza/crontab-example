@@ -45,6 +45,8 @@ Choose 1-3 [1]: 1
 ```
 maka masukan 1 (untuk nano editor, normal kayak biasanya tergantung anda juga)
 
+<br />
+
 ### 2. Buat penjadwalan didalam settingan crontab
 tambahkan code paling bawah seperti ini...
 ```bash
@@ -81,6 +83,8 @@ tambahkan code paling bawah seperti ini...
 arahkan sesuai masing-masing file yang akan anda simpan.
 setelah itu simpan dengan CTRL+X , lalu CTRL+Y , kemudian ENTER
 
+<br />
+
 ### 3. Isi code didalam file bash
 format penulisan didalam file bash supaya terminal dapat terbuka pada saat awal booting dengan menulis seperti berikut...
 ```bash
@@ -96,12 +100,15 @@ code tersebut adalah contoh bekas projek saya sebelumnya, ubah sesuai selera dan
 jika sudah maka save dan coba restart...
 dan SELESAI....
 
+<br />
+
 ### Tambahan: untuk mengedit cronjob yang sudah teredit
 dapat merubah isi string yang akan kita rubah dengan string baru.
 ```shell
 cd /var/spool/cron/crontabs
 ```
 
+<br />
 
 # Support the project
 Apakah kamu menyukai ini? Please support saya dengan menekan subscribe di [Youtube Channel](https://www.youtube.com/user/jefripunza/) saya...
