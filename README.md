@@ -101,8 +101,7 @@ dan SELESAI....
 
 <br />
 
-### Tambahan: untuk mengedit cronjob yang sudah teredit
-dapat merubah isi string yang akan kita rubah dengan string baru.
+### Tambahan: untuk mengedit cronjob yang sudah ada
 ```shell
 cd /var/spool/cron/crontabs
 ```
