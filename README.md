@@ -101,7 +101,7 @@ dan SELESAI....
 
 <br />
 
-### Tambahan: untuk mengedit cronjob yang sudah ada
+### Tambahan: untuk mengedit crontab yang sudah ada
 ```shell
 cd /var/spool/cron/crontabs
 ```
@@ -109,7 +109,7 @@ cd /var/spool/cron/crontabs
 <br />
 
 # Support the project
-Apakah kamu menyukai ini? Please support saya dengan menekan subscribe di [Youtube Channel](https://www.youtube.com/user/jefripunza/) saya...
+Apakah kamu menyukai konten ini? Please support saya dengan menekan subscribe di [Youtube Channel](https://www.youtube.com/user/jefripunza/) saya...
 
 <br />
 
