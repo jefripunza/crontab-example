@@ -27,7 +27,7 @@ Berikut ini adalah contoh untuk membuat sebuah startup pada linux menggunakan cr
 ## TUTORIAL
 
 ### 1. Masuk ke settingan crontab
-dapat mengambil data dari sebuah string dengan menggunakan variabel separator dan dapat memilih data pada urutannya.
+ketik di terminal...
 ```shell
 crontab -e
 ```
